@@ -12,8 +12,8 @@ import random
 
 admins = ['1841710225', '408820423', '151732063']
 
-#token = '5283989454:AAGjG3J3Mp2VCu3HRSeXNloG0LAsepz7wu8'
-token = '5987577725:AAHfX_Bkoud7Yl4aPPx-GG9Pt8sW0GU-iyE'
+#token = ''
+token = ''
 
 bot = telebot.TeleBot(token)
 
